@@ -3,4 +3,4 @@ docker.elastic.co/elasticsearch/elasticsearch:7.17.22
 docker.elastic.co/kibana/kibana:7.17.22
 docker.io/adoptopenjdk/openjdk11
 haxqer/confluence:8.9.4
-mysql:8.0
+bitnami/mysql:8.4.3
