@@ -3,5 +3,5 @@
 #docker.elastic.co/kibana/kibana:7.17.22
 #docker.io/adoptopenjdk/openjdk11
 #haxqer/confluence:8.9.4
-bitnami/mysql:8.4.3
+mysql:8.4.3
 bitnami/openresty
