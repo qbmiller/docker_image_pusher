@@ -6,3 +6,5 @@
 #mysql:8.4.3
 #bitnami/openresty
 openjdk:8-jdk-alpine
+
+
