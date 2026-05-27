@@ -6,10 +6,10 @@
 #mysql:8.4.3
 #bitnami/openresty
 #openjdk:8-jdk-alpine
-#rancher/rancher:v2.8.6-rc3
+rancher/rancher:v2.8.5
 #ghcr.io/headlamp-k8s/headlamp:v0.42.0
-docker.io/rancher/fleet-agent:v0.9.5
-docker.io/rancher/rancher-webhook:v0.4.7
-docker.io/rancher/kubectl:v1.20.2
-rancher/shell:v0.1.24
+#docker.io/rancher/fleet-agent:v0.9.5
+#docker.io/rancher/rancher-webhook:v0.4.7
+#docker.io/rancher/kubectl:v1.20.2
+#rancher/shell:v0.1.24
 
